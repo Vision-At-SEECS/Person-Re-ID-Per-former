@@ -18,7 +18,7 @@ DukeMTMC-reID dataset is an open-access dataset, the dataset can be downloaded v
 ## MSMT17
 MSMT17 dataset can be downloaded by following the detailed instructions available [here](https://www.pkuvmc.com/dataset.html)
 
-## Evaluation
+# Evaluation
 Performer(base) and Performer(SCM) training models can be downloaded from [GoogleDriver](https://drive.google.com/drive/folders/1t5IyNFMUzmsdBqz0nyA1rjxiuaF9_kTI?usp=sharing)
 
 Place the trained weights in the trained-models folder and update the paths in the evaluation script.
@@ -26,6 +26,7 @@ Place the trained weights in the trained-models folder and update the paths in t
 Evaluate the models using command: python eval_performer.py
 
 
+# Citations
 If you find this code useful to your research, please cite the following papers.
 
 @article{torchreid, title={Torchreid: A Library for Deep Learning Person Re-Identification in Pytorch}, author={Zhou, Kaiyang and Xiang, Tao}, journal={arXiv preprint arXiv:1910.10093}, year={2019} }
