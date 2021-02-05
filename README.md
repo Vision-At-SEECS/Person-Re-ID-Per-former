@@ -7,7 +7,7 @@ We use Pytorch based person re-identification library "torchreid" for this work.
 
 # Datasets
 
-Person Re-id datasets can be downloaded from the given links and place in the "/torchreid/data/" folder before starting the training.
+Person Re-id datasets can be downloaded from the links given below. Extract the datasets and place in the respective sub-folders in the "reid-data" folder.
 
 ## Market1501
 Market 1501 dataset is an open-access dataset and can be downloaded from [Openlink](http://zheng-lab.cecs.anu.edu.au/Project/project_reid.html)
@@ -21,7 +21,7 @@ MSMT17 dataset can be downloaded by following the detailed instructions availabl
 ## Evaluation
 Performer(base) and Performer(SCM) training models can be downloaded from [GoogleDriver](https://drive.google.com/drive/folders/1t5IyNFMUzmsdBqz0nyA1rjxiuaF9_kTI?usp=sharing)
 
-Place the trained weights in the Results folder and update the paths in the evaluation script.
+Place the trained weights in the trained-models folder and update the paths in the evaluation script.
 
 Evaluate the models using command: python eval_performer.py
 
