@@ -17,7 +17,9 @@ MSMT17 dataset can be downloaded by following the detailed instructions availabl
 
 ## Evaluation
 Performer(base) and Performer(SCM) training models can be downloaded from [GoogleDriver](https://drive.google.com/drive/folders/1t5IyNFMUzmsdBqz0nyA1rjxiuaF9_kTI?usp=sharing)
+
 Place the trained weights in the Results folder and update the paths in the evaluation script.
+
 Evaluate the models using command: python eval_performer.py
 
 
