@@ -33,4 +33,4 @@ If you find this code useful to your research, please cite the following papers.
 @article{transformer,   title = {Attention is all you need}, author = {Vaswani et. al}, journal = {Advances in neural information processing systems}, year = {2017} }
 
 @article{vit, title = {An image is worth 16x16 words: Transformers for image recognition at scale},
-   author = {Dosovitskiy et.al }, journal = {arXiv preprint arXiv:2010.11929}, year = {2020}, type = {Journal Article} }
+   author = {Dosovitskiy et.al }, journal = {arXiv preprint arXiv:2010.11929}, year = {2020} }
