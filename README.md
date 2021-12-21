@@ -27,11 +27,7 @@ Evaluate the models using command: python eval_performer.py
 
 
 # Citations
-If you find this code useful to your research, please cite the following papers.
-
-@article{torchreid, title={Torchreid: A Library for Deep Learning Person Re-Identification in Pytorch}, author={Zhou, Kaiyang and Xiang, Tao}, journal={arXiv preprint arXiv:1910.10093}, year={2019} }
-
-@article{transformer,   title = {Attention is all you need}, author = {Vaswani et. al}, journal = {Advances in neural information processing systems}, year = {2017} }
+If you find this code useful to your research, please cite the following paper.
 
 @article{vit, title = {An image is worth 16x16 words: Transformers for image recognition at scale},
    author = {Dosovitskiy et.al }, journal = {arXiv preprint arXiv:2010.11929}, year = {2020} }
