@@ -29,4 +29,4 @@ Evaluate the models using command: python eval_performer.py
 # Citations
 If you find this code useful to your research, please cite the following paper.
 
-@article{PER-FORMER: Rethinking Person Re-identification Using Transformer Augmented with Self-Attention and Contextual Mapping, Under Review in TVCJ.
+@article {**PER-FORMER: Rethinking Person Re-identification Using Transformer Augmented with Self-Attention and Contextual Mapping**, Under Review in TVCJ}
