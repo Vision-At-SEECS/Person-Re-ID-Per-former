@@ -29,5 +29,4 @@ Evaluate the models using command: python eval_performer.py
 # Citations
 If you find this code useful to your research, please cite the following paper.
 
-@article{vit, title = {An image is worth 16x16 words: Transformers for image recognition at scale},
-   author = {Dosovitskiy et.al }, journal = {arXiv preprint arXiv:2010.11929}, year = {2020} }
+@article{PER-FORMER: Rethinking Person Re-identification Using Transformer Augmented with Self-Attention and Contextual Mapping, Under Review in TVCJ.
