@@ -3,11 +3,8 @@ This repository contains a novel self-attention based person re-identification a
 The proposed architecture outperformed CNN based re-id architectures when evaluated on three public re-id benchmarks i.e. Market1501, DukeMTMC-ReID and MSMT17. 
 The complete code along with pretrained models is shared via this repository.
 
-We use Pytorch based person re-identification library "torchreid" for this work. The detailed steps to install this library along with prerequisites are available [here](https://github.com/KaiyangZhou/deep-person-reid). The library provides a unified interface for training and testing of various person re-identification datasets.
-
 # Datasets
-
-Person Re-id datasets can be downloaded from the links given below. Extract the datasets and place in the respective sub-folders in the "reid-data" folder.
+Install [torchreid](https://github.com/KaiyangZhou/deep-person-reid). Person Re-id datasets can be downloaded from the links given below. Extract the datasets and place in the respective sub-folders in the "reid-data" folder.
 
 ## Market1501
 Market 1501 dataset is an open-access dataset and can be downloaded from [Openlink](http://zheng-lab.cecs.anu.edu.au/Project/project_reid.html)
